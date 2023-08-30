@@ -6,10 +6,12 @@
 <body>
   <h1>Barbershop</h1>
   <p>Welcome to the Hair Care Appointment Booking App! This app provides a user-friendly platform for booking your haircuts and managing your hair grooming appointments seamlessly.</p>
-  Technologies Used
-HTML: The app's structure and content are built using HTML.
-SASS: Styling is implemented using SASS (Syntactically Awesome Style Sheets), a CSS preprocessor that enhances the styling workflow.
-JavaScript: Interactive features and functionality are implemented using JavaScript.
+  <p>Technologies Used </p>
+  <ul>
+<li>HTML: The app's structure and content are built using HTML.</li>
+<li>SASS: Styling is implemented using SASS (Syntactically Awesome Style Sheets), a CSS preprocessor that enhances the styling workflow.</li>
+<li>JavaScript: Interactive features and functionality are implemented using JavaScript.</li>
+  </ul>
 Features
 Browse available stylists and their profiles.
 Select preferred stylists based on expertise.
